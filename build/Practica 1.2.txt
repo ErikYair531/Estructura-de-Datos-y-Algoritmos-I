@@ -1,1 +1,11 @@
 
+
+Este archivo solo sirve para ubicar la practica, debajo del archivo estan, más archivos, donde se encuentran uno por uno los codgios creados para la practica. 
+
+En este caso solo esta el archivo Restrigir.c en cual se encuentra el ejercicio 2
+
+"Calcula
+suma, resta, promedio, mínimo y máximo de un vector, indicando los índices de
+aparición, es decir, que si el elemento de menor valor se encuentra en la posiciópn 0 y el máximo en la posición 5 que el programa también lo indique."
+
+Aun no se como ordenarlo bien por eso este aparece de segundo lugar.
