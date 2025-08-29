@@ -1,2 +1,7 @@
 
 Este archivo solo sirve para ubicar la practica, debajo del archivo estan, más archivos, donde se encuentran uno por uno los codgios creados para la practica. 
+
+En este caso solo esta el archivo Restrigir.c en cual se encuentra el ejercicio 1
+
+"Ejercicio 1: Modifica el código visto en clase sobre arreglos para que no permita un numero negativo o un numero mayor al tamaño del array que elijas (En clase se propuso una longitud de 100 pero puedes hacerlo con los elementos que desees)."
+
