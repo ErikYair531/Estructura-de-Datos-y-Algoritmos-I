@@ -38,7 +38,7 @@
         }
     } while (n <= 0 || n > 100);
 
-    printf("\nIngrese numeros : \n",);
+    printf("\nIngrese numeros : \n");
 		for (int i = 0; i < n ; i++) {
 			printf ("\nElementos: %d - " ,i);
 			scanf("%d", &a[i]);
