@@ -13,7 +13,7 @@
 *
 * Author: Erik Y. Nogueira Lopez.
 */
-
+//El archivo que dice Practica 1.3.c es el mismo codigo de aqui
 	#include  <stdio.h>
 
 	int main (void) {
