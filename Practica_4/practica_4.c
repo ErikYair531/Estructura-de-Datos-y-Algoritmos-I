@@ -47,6 +47,8 @@ int main() {
         printf("\n");
         free(p);
 
+        printf("\nMemoria liberada correctamente.\n");
+
 
             break;
 //----------------------------------------------------------------------------
@@ -81,6 +83,8 @@ int main() {
         }
            printf("\n");
             free(p);
+
+            printf("\nMemoria liberada correctamente.\n");
 
             break;
 //----------------------------------------------------------------------------
@@ -149,6 +153,8 @@ int main() {
     printf("\n");
 
     free(p);
+
+    printf("\nMemoria liberada correctamente.\n");
     break;
 
        default:
@@ -159,3 +165,4 @@ int main() {
 }
 
 //Terminamos, por fin dejamos de surfrir :D
+
