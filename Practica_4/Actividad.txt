@@ -1,0 +1,10 @@
+Actividad
+1. ¿Qué diferencia observaron entre los valores iniciales con malloc y calloc?
+    Con malloc se asigna el valor en el espacio de memoria que le damos y con calloc inicia en 0 y despues se le asignan los valores
+2. ¿Qué sucede si en realloc piden un tamaño más grande que el original? ¿y máspequeño?
+    Con realloc si le asignamos un valor más grande compara tamaños, despues ve que tanto se le aumento el tamaño y asigna con nuevos elementos el espacio que se 
+    asigno.
+    Si es más pequeño devuelve los valores ya ingresados
+3. ¿Qué pasa si olvidan llamar a free?
+    Se me rompe el codigo... 
+    Sucede que que la memoria se desborda.
