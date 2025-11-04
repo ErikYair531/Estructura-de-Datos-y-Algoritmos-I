@@ -1,0 +1,25 @@
+Preguntas (A)
+1. ¿Por qué en la cola circular no se desperdician posiciones como en la cola lineal?
+En la cola circular la posiciones siguen dsiponibles, ya que se reinician al llegar al final
+
+2. ¿Qué pasa cuando el índice final llega al final del arreglo?
+Cuando el índice final llega al final del arreglo, vuelve al inicio gracias al operador
+
+3. ¿Qué sucede si intentas encolar cuando la cola está llena?
+En caso del codigo, marca como error y no se almacena el nuevo valor
+
+
+
+Reflexión (B)
+1. ¿Qué diferencia tiene el deque frente a la cola circular normal?
+La cola circular solo permite incertar al final y eliminar al inicio
+La cola doble permite insertar y eliminar en ambos extremos.
+
+2. ¿Qué operaciones permiten simular tanto FIFO como LIFO?
+En la operación FIFO insert_indice y delete_frente
+En la operación LIFO insertar_frente y eliminar_frente, insertar_indice y eliminar_indice
+3. Investiga que aplicaciones prácticas tiene deque.
+Implementación de funciones de Deshacer/Rehacer (Undo/Redo)
+Navegación en el historial del navegador web
+Implementación de Pilas y Colas
+Algoritmos de recorrido de grafos
