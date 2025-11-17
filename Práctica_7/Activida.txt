@@ -1,0 +1,28 @@
+Parte A.
+
+¿Por qué las listas enlazadas no requieren tamaño fijo como los arreglos?
+Estas requieren memoria dinámica, esto hace que cada nodo sea individual con un putero
+
+¿Qué diferencia hay entre mover la cabeza y modificar los punteros internos?
+Mover la cabeza, cambia el punto de inicio y modificar los punteros internos, cambian la relación
+en el orden entre nodos inserta y elimina.
+
+Parte B.
+
+¿Qué ventaja tiene la lista circular frente a la simple?
+En una lista simple para acceder al inicio desde el final, se necesita un puntero a la cabeza,
+ya que apunta a null. En una cola circular esto cambia ya que el ultimo nodo apunta a al primero,
+evitando así la necesidad de operaciones extras.
+
+¿Qué error puede causar un bucle infinito en una lista circular?
+Su error principal hace que recorra la lista sin una condición para terminar, ya que su misma ventaja
+hace que la lista circular no tiene puntero a NULL hace que dependa de encontrar un puntero nulo para 
+detenerse.
+
+¿Qué estructuras o programas del mundo real se basan en listas circulares?
+
+Un gran ejemplo que econte que utiilizamos muchos en la actulidad son las diapostivas o carruseles de
+imágenes, en las secciones de galerías en las interfaces de usuario ayuda a la organización de fotos, 
+en apps de música. 
+
+Las listas ayudan a pasar del último al primero sin interrumpir. 
